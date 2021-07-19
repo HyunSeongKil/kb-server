@@ -1,10 +1,6 @@
 package kr.vaiv.sdt.kb.controller.rest;
 
 import java.util.List;
-import java.util.Optional;
-
-import javax.websocket.server.PathParam;
-
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
